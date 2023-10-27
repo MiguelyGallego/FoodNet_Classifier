@@ -1,10 +1,8 @@
 # Food Image Recognition and Nutritional Value Estimation
 
-<!-- ![Example Image](https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/burguer.jpg=224x)
-![Ejemplo de imagen pequeña](https://github.com/tu-usuario/tu-repo/blob/main/ejemplo.png =300x) -->
-<img src="https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/burguer.jpg" alt="Texto Example Image" width="224"/>
-<!-- ![Example Image](https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/momos.jpg)
-![Example Image](https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/butter_naan.jpg) -->
+<img src="https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/burguer.jpg" alt="Example Image burguer" width="224"/>
+<img src="https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/momos.jpg" alt="Example Image momos" width="224"/>
+<img src="https://github.com/MiguelyGallego/FoodNet_Classifier/blob/main/example_images/butter_naan.jpg" alt="Example butter_naan" width="224"/>
 
 ## Descripción del Proyecto
 
